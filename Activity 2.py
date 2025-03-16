@@ -23,4 +23,4 @@ def func3(n):
 
 print("No of iterations is ",func1(n))
 print("No of iterations is ",func2(n))
-print("No of iterations",func3(n))
+print("No of iterations ",func3(n))
